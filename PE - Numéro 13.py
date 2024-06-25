@@ -103,4 +103,4 @@ abra = list(zz)
 print(abra[0:10])
 5537376230;
 
-#inutile comme exo, juste long
+#j'ai possiblement utilisé une méthode un poil long, au moins ça marche
