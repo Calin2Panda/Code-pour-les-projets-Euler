@@ -15,8 +15,7 @@ def a():
         a += d
         d += 1
     print(a-1)
-# ça ne marche pas, le code est trop con, et surtout trop compliqué à appliquer 
-# sans ces putains de bibliothèques bien vénères
+# ça ne marche pas, trop compliqué sans avoir recours aux bibliothèques
 
 def b():
     i = 1
@@ -29,4 +28,4 @@ def b():
 
 b()
 
-# c'est la correction, ça marche bien on est content ahahahahahahahahahahahahahahah
+# c'est la correction, ça marche bien on est content 
